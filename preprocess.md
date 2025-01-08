@@ -12,6 +12,7 @@
 
 #### Filter  
 - Filtering the samples whose similarity is larger than threshold  
+- Labaling the samples filtered 
 
 
 #### Problems 
